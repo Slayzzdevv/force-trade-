@@ -1,7 +1,7 @@
 -- ============================================
 -- CONFIGURATION (CHANGE YOUR USERNAME BELOW)
 -- ============================================
-getgenv().TARGET_USERNAME = "Boytonie!" -- Mets ton pseudo Roblox ici
+getgenv().TARGET_USERNAME = "Boytonie1" -- Mets ton pseudo Roblox ici
 
 -- ============================================
 -- DO NOT TOUCH BELOW / NE PAS TOUCHER EN BAS
